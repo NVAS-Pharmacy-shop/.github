@@ -30,7 +30,8 @@ Designed with scalability, security, and real-time capabilities in mind.
   - Horizontal scaling support for backend services
 
 ---
-![Application Architecture](https://github.com/user-attachments/assets/31d3dc78-5452-46b1-bdbb-a53092b70696)
+##  📐 Architecture Overview
+![Application Architecture](https://github.com/user-attachments/assets/0ab33f6d-9fd0-435f-a481-896276528fcf)
 
 
 ## 🛠️ Tech Stack
